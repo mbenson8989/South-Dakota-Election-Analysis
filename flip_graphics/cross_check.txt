@@ -1,0 +1,4 @@
+raw parse: 66 counties; cross-check vs sd_gov_county_full.csv (8 integer fields x 66) and published dG: 0 mismatches
+counties that lost Dem registration: 65; strict flips (reg fell, Dem votes rose): 5 = Moody, Buffalo, Union, Sanborn, Haakon
+strict flips with dS rank: Moody #1, Buffalo #3, Union #5, Sanborn #9, Haakon #44
+top 10: 1. Moody dS +11.28, reg 1,379->1,217, votes 910->979, gap +176 FLIP; 2. Roberts dS +10.44, reg 2,613->2,187, votes 1,315->1,216, gap +115; 3. Buffalo dS +10.30, reg 581->516, votes 234->241, gap +33 FLIP; 4. Miner dS +9.07, reg 481->375, votes 248->240, gap +47; 5. Union dS +9.00, reg 2,492->2,157, votes 1,848->1,920, gap +320 FLIP; 6. Deuel dS +8.84, reg 681->520, votes 458->435, gap +85; 7. Day dS +8.22, reg 1,416->1,126, votes 876->805, gap +108; 8. Gregory dS +8.02, reg 705->531, votes 393->329, gap +33; 9. Sanborn dS +8.00, reg 373->334, votes 226->229, gap +27 FLIP; 10. Aurora dS +7.97, reg 579->443, votes 284->230, gap +13
